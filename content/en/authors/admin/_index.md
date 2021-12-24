@@ -24,8 +24,7 @@ bio: I am a PhD Candidate in Economics specialized in Public Economics, Public F
 interests:
 - Public Finance
 - Taxation
-- Inequality
-- Quantitative Macroeconomics
+- Public Policy Evaluation
 
 # Education to show in About widget
 education:
@@ -47,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: darioserrapuente@gmail.com
+  link: mailto:darioserrapuente@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/darioserranopue
@@ -58,7 +57,7 @@ social:
   icon_pack: fab
   link: https://github.com/serranopuente
 - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es
 - icon: orcid
   icon_pack: fab
@@ -84,7 +83,7 @@ highlight_name: true
 
 I am a PhD Candidate in Economics at [UB School of Economics](https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/) and [IEB](https://ieb.ub.edu/en/researcher/serrano-puente-dario/). During the first year of my PhD studies, I am working as a PhD Researcher (Trainee) at [Autoridad Independiente de Responsabilidad Fiscal (AIReF)](https://www.airef.es/en/) in the Public Policy Evaluation department.
 
-I develop my research in Economics from both empiric and theoretical perspectives. Thus, I work with both micro-simulation tools ((exploiting large micro-datasets)) and quantitative macroeconomics (heterogeneous agents models) methods. I currently udertake research projects on fiscal policy issues, pension and redistribution system, and monitoring structural characteristics of the Spanish economy.
+I develop my research in Economics from both empiric and theoretical perspectives. Thus, I work with both micro-simulation tools (exploiting large micro-datasets) and quantitative macroeconomics (heterogeneous agents models) methods. I currently udertake research projects on fiscal policy issues, pension and redistribution system, and monitoring structural characteristics of the Spanish economy.
 
 I have obtained my Master of Science in Economics from [Universität Mannheim](https://www.vwl.uni-mannheim.de/en/) in 2020 and my Bachelor's degree in Economics from [Universidad Autónoma de Madrid](https://www.uam.es/Economicas/1WelcomeWhyChooseUS/1242693242572.htm?language=en) in 2016.
 
