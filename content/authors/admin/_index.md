@@ -18,26 +18,27 @@ organizations:
   url: https://www.airef.es/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD Candidate in Economics specialized in Public Economics, Public Finance, Taxation, Inequality and Public Policy Evaluation.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Finance
+- Taxation
+- Inequality
+- Quantitative Macroeconomics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: UB School of Economics & IEB
+    year: 2024 (tentative)
+  - course: Master of Science in Economics
+    institution: Universität Mannheim
+    year: 2020
+  - course: Bachelor in Economics
+    institution: Universidad Autónoma de Madrid
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
