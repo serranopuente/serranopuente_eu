@@ -15,23 +15,24 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: Darío Serrano-Puente
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: darioserrapuente@gmail.com dserrano@airef.es
+email: darioserrapuente@gmail.com 
+email: dserrano@airef.es
 # phone: 888 888 88 88
 address:
-  street: José Abascal 2
+  street: José Abascal 2, 2ª planta
   city: Madrid
 #  region: CA
   postcode: '28003'
   country: Spain
   country_code: ES
-# coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+coordinates:
+  latitude: '40.43877563167065'
+  longitude: '-3.7036784669413856'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #  - 'Monday 10:00 to 13:00'
@@ -50,10 +51,10 @@ contact_links:
     icon_pack: fab
     name: serranopuente
     link: 'https://github.com/serranopuente'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
