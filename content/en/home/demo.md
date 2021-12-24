@@ -80,7 +80,7 @@ To help us develop this template and software sustainably under the MIT license,
 {{% callout note %}}
 This website is in construction.
 
-**Please, visit Dario's old webiste: [`sites.google.com/view/darioserranopuente/`](https://sites.google.com/view/darioserranopuente/)**
+**Please, visit Dario's old webiste: [`sites.google.com/view/darioserranopuente/`](https://www.sites.google.com/view/darioserranopuente/)**
 {{% /callout %}}
 <!--- 
 ## Get inspired
