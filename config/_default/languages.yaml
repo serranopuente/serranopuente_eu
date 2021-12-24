@@ -15,8 +15,8 @@ es:
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-  menu:
-    main:
-      - name: Español
+#  menu:
+#    main:
+#      - name: Español
 #        url: '#about'
 #        weight: 1
