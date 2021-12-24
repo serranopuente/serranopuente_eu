@@ -1,17 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Darío Serrano-Puente
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Economics @ [UB School of Economics](https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/) & [IEB](https://ieb.ub.edu/en/researcher/serrano-puente-dario/) | PhD Researcher (Trainee) @ [AIReF](https://www.airef.es/en/)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universitat de Barcelona School of Economics
+  url: https://www.ub.edu/school-economics/
+- name: Institut d'Economia de Barcelona (IEB)
+  url: https://ieb.ub.edu/en/
+- name: Autoridad Independiente de Responsabilidad Fiscal (AIReF)
+  url: https://www.airef.es/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
